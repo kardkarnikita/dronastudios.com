@@ -1137,9 +1137,24 @@ img.mfp-img {
   margin-top: 3px;
   position: relative;
   right: 5px;
-  top: -5px;
+  top: -41px;
   padding-bottom: 3px;
 }
+
+
+@media (min-width: 320px) and (max-width: 767px){
+.welcome-content h3 {
+    font-size: 26px;
+    margin-top: 35px;
+}
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+.welcome-area .welcome-thumb img {
+    display: none;
+}
+}
+
 /*---------jquery--------*/
 .ah-headline.type .ah-words-wrapper.selected::after,
 .ah-headline.type b {

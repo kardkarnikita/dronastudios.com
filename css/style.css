@@ -80,7 +80,7 @@ li {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Rubik", sans-serif;
-  color: #44415a;
+  color: #000000;
   font-weight: 700;
   line-height: 1.4;
 }
@@ -380,7 +380,7 @@ gray-light-bg {
 #scrollUp {
   width: 50px;
   height: 50px;
-  background-color: #f73859;
+  background-color: #ffd630;
   bottom: 50px;
   right: 50px;
   color: #fff;
@@ -534,7 +534,7 @@ gray-light-bg {
 .apzia-btn:hover {
   -webkit-box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
   box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
-  background-color: #f73859;
+  background-color: #ffd630;
   color: #fff;
 }
 
@@ -564,8 +564,8 @@ gray-light-bg {
 }
 
 .apzia-btn-2:hover {
-  background-color: #f73859;
-  border-color: #f73859;
+  background-color: #ffd630;
+  border-color: #ffd630;
   color: #fff;
   -webkit-box-shadow: 0px 0px 7px 4px rgba(0, 0, 0, 0.17);
   box-shadow: 0px 0px 7px 4px rgba(0, 0, 0, 0.17);
@@ -592,7 +592,7 @@ gray-light-bg {
   font-size: 16px;
   font-weight: 500;
   color: #fff;
-  background: #806bff;
+  background: #ffd630;
   border-radius: 25px;
   text-align: center;
   padding: 10px 30px;
@@ -613,7 +613,7 @@ gray-light-bg {
 
 .theme-btn-two:hover {
   color: #fff;
-  background: #f73859;
+  background: #030303;
   font-weight: 500;
 }
 
@@ -717,8 +717,8 @@ gray-light-bg {
   text-align: center;
   display: inline-block;
   font-size: 15px;
-  color: #fff;
-  background-color: #f73859;
+  color: black;
+  background-color: #ffd630;
   border-radius: 2px;
   font-weight: 500;
   -webkit-transition-duration: 500ms;
@@ -738,7 +738,7 @@ gray-light-bg {
   -webkit-box-shadow: 0 20px 30px 0 rgba(67, 37, 204, 0.2);
   box-shadow: 0 20px 30px 0 rgba(67, 37, 204, 0.2);
   color: #fff;
-  background-color: #806bff;
+  background-color: #000000;
 }
 
 .avatar-lg {
@@ -1028,7 +1028,7 @@ gray-light-bg {
 }
 
 .logo a img {
-  width: 120px;
+  width: 140px;
 }
 
 .header-area .main-header-area .main-menu ul li .submenu li a::before {
@@ -1241,7 +1241,7 @@ gray-light-bg {
 .btn.header-btn.btn-one {
   -webkit-box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
   box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
-  background-color: #f73859;
+  background-color: #ffd630;
   color: #fff;
 }
 
@@ -1258,7 +1258,7 @@ gray-light-bg {
 }
 
 .btn.header-btn.two:hover {
-  background-color: #f73859;
+  background-color: #ffd630;
   color: #fff;
 }
 
@@ -1270,7 +1270,7 @@ gray-light-bg {
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
-  color: #f73859;
+  color: #ffd630;
   -webkit-transition-duration: 400ms;
   -o-transition-duration: 400ms;
   transition-duration: 400ms;
@@ -1780,7 +1780,7 @@ gray-light-bg {
 }
 
 .about-desc-area h4 {
-  color: #f73859;
+  color: #ffd630;
 }
 
 .about-desc-area span {
@@ -1918,7 +1918,7 @@ gray-light-bg {
 }
 
 .about-content-4 h2 span {
-  color: #f73859;
+  color: #ffd630;
 }
 
 .why-area-content h2 {
@@ -2623,7 +2623,7 @@ gray-light-bg {
 }
 
 .video-icon a i {
-  color: #f73859;
+  color: #ffd630;
   font-size: 26px;
 }
 
@@ -2724,7 +2724,7 @@ gray-light-bg {
   -webkit-transition: ease-in-out all 0.55s;
   transition: ease-in-out all 0.55s;
   height: 2px;
-  background: #f73859;
+  background: #ffd630;
 }
 
 .video-us-text h4 {
@@ -2768,7 +2768,7 @@ gray-light-bg {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  background: #806bff;
+  background: #FFD630;
 }
 
 .single-feature-area .feature-icon {
@@ -2812,7 +2812,7 @@ gray-light-bg {
 }
 
 .single-feature-area:hover .feature-content-text a, .single-feature-area:hover .feature-content-text h4, .single-feature-area:hover .feature-content-text p {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .single-feature-area:hover::before {
@@ -2943,7 +2943,7 @@ gray-light-bg {
 .btn.welcome-btn.started:hover {
   -webkit-box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
   box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
-  background-color: #f73859;
+  background-color: #ffd630;
   color: #fff;
 }
 
@@ -2993,7 +2993,7 @@ gray-light-bg {
   width: 20px;
   height: 20px;
   display: inline-block;
-  background-color: #f73859;
+  background-color: #ffd630;
   border-radius: 50%;
   line-height: 20px;
   text-align: center;
@@ -3057,7 +3057,7 @@ gray-light-bg {
 
 .price-btn:hover {
   color: #fff;
-  background: #f73859;
+  background: #ffd630;
 }
 
 .single-price-plan {
@@ -3194,7 +3194,7 @@ gray-light-bg {
 }
 
 .pricing-table-new .pricing-table .table-content li i {
-  color: #f73859;
+  color: #ffd630;
   margin-right: 3px;
   font-size: 14px;
 }
@@ -3206,7 +3206,7 @@ gray-light-bg {
 .pricing-table-new .pricing-table .table-footer a {
   position: relative;
   display: inline-block;
-  background: #f73859;
+  background: #ffd630;
   font-size: 16px;
   text-align: center;
   padding: 10px 40px;
@@ -3374,9 +3374,9 @@ gray-light-bg {
 .solid-btn-login:hover {
   -webkit-box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
   box-shadow: 0 20px 30px 0 rgba(204, 37, 107, 0.2);
-  background: #f73859;
+  background: #ffd630;
   color: #ffffff;
-  border-color: #f73859;
+  border-color: #ffd630;
 }
 
 .forgot-password {
@@ -3628,7 +3628,7 @@ gray-light-bg {
 }
 
 .app-screen-shot-area .owl-dots .owl-dot.active {
-  background-color: #f73859;
+  background-color: #ffd630;
   width: 30px;
   border-radius: 5px;
 }
@@ -3754,8 +3754,12 @@ gray-light-bg {
 ********* 16 -- Footer Contact CSS ********
 =========================================== */
 
+.footer-contact-area{
+  background-color: #111111;
+}
+
 .footer-logo a img {
-  max-width: 90px;
+  width: 140px;
 }
 
 .gmaps {
@@ -3868,7 +3872,7 @@ gray-light-bg {
 }
 
 .footer-contact-icon a:hover {
-  color: #f73859;
+  color: #ffd630;
 }
 
 /* ------ Wee ofer area css ----- */
@@ -4116,7 +4120,7 @@ gray-light-bg {
 }
 
 .partner-content-text span {
-  color: #f73859;
+  color: #ffd630;
 }
 
 /* ========================================
@@ -6329,8 +6333,8 @@ h3.leave-comment-text:before {
 }
 
 .blog-search button.submit:hover {
-  background-color: #f73859;
-  border: 1px solid #f73859;
+  background-color: #ffd630;
+  border: 1px solid #ffd630;
   color: #fff;
 }
 
@@ -6355,7 +6359,7 @@ h3.leave-comment-text:before {
 }
 
 .recent-text a:hover {
-  color: #f73859;
+  color: #ffd630;
 }
 
 .recent-text h4 {
